@@ -47,7 +47,7 @@ function SignIn() {
           placeholder="Auth token"
         />
       </div>
-      <button className="btn-signin">Join</button>
+      <button className="btn-signin">Join here!</button>
     </form>
     )
 }
